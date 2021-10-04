@@ -1,0 +1,19 @@
+{
+    "Filmes": [
+        {
+            "nome": "Shrek",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/54/04/20150812.jpg",
+            "id": 1
+        },
+        {
+            "nome": "Batman - O cavaleiro das trevas",
+            "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/57/96/20121842.jpg",
+            "id": 2
+        },
+        {
+            "nome": "Norbit",
+            "imagem": "https://m.media-amazon.com/images/I/81z3kb3TRpL._AC_SY550_.jpg",
+            "id": 3
+        }
+    ]
+}
